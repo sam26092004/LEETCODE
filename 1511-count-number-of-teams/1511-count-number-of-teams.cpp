@@ -2,43 +2,28 @@ class Solution {
 public:
     int n;
     vector<int> rating;
-    // dpInc[count][prev+1][idx] for increasing sequences
-    vector<vector<vector<int>>> dpInc;
-    // dpDec[count][prev+1][idx] for decreasing sequences
-    vector<vector<vector<int>>> dpDec;
+    // dp[dir][count][prev+1][idx], where dir 0 = increasing, 1 = decreasing.
+    vector<vector<vector<vector<int>>>> dp;
     
-    int increasingSeq(int count, int idx, int prev) {
+    int countTeams(int count, int idx, int prev, bool inc) {
         if (count == 3) return 1;
         if (idx == n) return 0;
-        if (dpInc[count][prev + 1][idx] != -1)
-            return dpInc[count][prev + 1][idx];
+        int d = inc ? 0 : 1;
+        if (dp[d][count][prev + 1][idx] != -1)
+            return dp[d][count][prev + 1][idx];
         int take = 0;
-        if (prev == -1 || rating[prev] < rating[idx])
-            take = increasingSeq(count + 1, idx + 1, idx);
-        int notTake = increasingSeq(count, idx + 1, prev);
-        return dpInc[count][prev + 1][idx] = take + notTake;
-    }
-    
-    int decreasingSeq(int count, int idx, int prev) {
-        if (count == 3) return 1;
-        if (idx == n) return 0;
-        if (dpDec[count][prev + 1][idx] != -1)
-            return dpDec[count][prev + 1][idx];
-        int take = 0;
-        if (prev == -1 || rating[prev] > rating[idx])
-            take = decreasingSeq(count + 1, idx + 1, idx);
-        int notTake = decreasingSeq(count, idx + 1, prev);
-        return dpDec[count][prev + 1][idx] = take + notTake;
+        if (prev == -1 || (inc ? rating[prev] < rating[idx] : rating[prev] > rating[idx]))
+            take = countTeams(count + 1, idx + 1, idx, inc);
+        int skip = countTeams(count, idx + 1, prev, inc);
+        return dp[d][count][prev + 1][idx] = take + skip;
     }
     
     int numTeams(vector<int>& ratingInput) {
         rating = ratingInput;
         n = rating.size();
-        dpInc = vector<vector<vector<int>>>(4, vector<vector<int>>(n + 1, vector<int>(n + 1, -1)));
-        dpDec = vector<vector<vector<int>>>(4, vector<vector<int>>(n + 1, vector<int>(n + 1, -1)));
-        
-        int incCount = increasingSeq(0, 0, -1);
-        int decCount = decreasingSeq(0, 0, -1);
-        return incCount + decCount;
+        dp = vector<vector<vector<vector<int>>>>(2, 
+             vector<vector<vector<int>>>(4, 
+             vector<vector<int>>(n + 1, vector<int>(n + 1, -1))));
+        return countTeams(0, 0, -1, true) + countTeams(0, 0, -1, false);
     }
 };
