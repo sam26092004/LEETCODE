@@ -98,4 +98,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/sam26092004/LEETCODE/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/sam26092004/LEETCODE/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/sam26092004/LEETCODE/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+## Graph
+|  |
+| ------- |
+| [3189-find-champion-ii](https://github.com/sam26092004/LEETCODE/tree/master/3189-find-champion-ii) |
 <!---LeetCode Topics End-->
