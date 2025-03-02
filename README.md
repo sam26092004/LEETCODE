@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/sam26092004/LEETCODE/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/sam26092004/LEETCODE/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/sam26092004/LEETCODE/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [0878-shifting-letters](https://github.com/sam26092004/LEETCODE/tree/master/0878-shifting-letters) |
 | [1511-count-number-of-teams](https://github.com/sam26092004/LEETCODE/tree/master/1511-count-number-of-teams) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/sam26092004/LEETCODE/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/sam26092004/LEETCODE/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0878-shifting-letters](https://github.com/sam26092004/LEETCODE/tree/master/0878-shifting-letters) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/sam26092004/LEETCODE/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1787-sum-of-absolute-differences-in-a-sorted-array](https://github.com/sam26092004/LEETCODE/tree/master/1787-sum-of-absolute-differences-in-a-sorted-array) |
 ## Binary Indexed Tree
@@ -66,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0878-shifting-letters](https://github.com/sam26092004/LEETCODE/tree/master/0878-shifting-letters) |
 | [1170-shortest-common-supersequence](https://github.com/sam26092004/LEETCODE/tree/master/1170-shortest-common-supersequence) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/sam26092004/LEETCODE/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 ## Hash Table
