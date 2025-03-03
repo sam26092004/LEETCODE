@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/sam26092004/LEETCODE/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1787-sum-of-absolute-differences-in-a-sorted-array](https://github.com/sam26092004/LEETCODE/tree/master/1787-sum-of-absolute-differences-in-a-sorted-array) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/sam26092004/LEETCODE/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
+| [2265-partition-array-according-to-given-pivot](https://github.com/sam26092004/LEETCODE/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2465-shifting-letters-ii](https://github.com/sam26092004/LEETCODE/tree/master/2465-shifting-letters-ii) |
 | [3454-minimum-operations-to-make-array-equal-to-target](https://github.com/sam26092004/LEETCODE/tree/master/3454-minimum-operations-to-make-array-equal-to-target) |
 ## Math
@@ -108,4 +109,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3189-find-champion-ii](https://github.com/sam26092004/LEETCODE/tree/master/3189-find-champion-ii) |
+## Two Pointers
+|  |
+| ------- |
+| [2265-partition-array-according-to-given-pivot](https://github.com/sam26092004/LEETCODE/tree/master/2265-partition-array-according-to-given-pivot) |
+## Simulation
+|  |
+| ------- |
+| [2265-partition-array-according-to-given-pivot](https://github.com/sam26092004/LEETCODE/tree/master/2265-partition-array-according-to-given-pivot) |
 <!---LeetCode Topics End-->
