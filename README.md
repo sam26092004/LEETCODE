@@ -11,10 +11,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/sam26092004/LEETCODE/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/sam26092004/LEETCODE/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/sam26092004/LEETCODE/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/sam26092004/LEETCODE/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -23,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/sam26092004/LEETCODE/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/sam26092004/LEETCODE/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 ## Array
 |  |
 | ------- |
@@ -133,4 +136,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/sam26092004/LEETCODE/tree/master/1951-find-the-winner-of-the-circular-game) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/sam26092004/LEETCODE/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 <!---LeetCode Topics End-->
