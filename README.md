@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/sam26092004/LEETCODE/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/sam26092004/LEETCODE/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/sam26092004/LEETCODE/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [0518-coin-change-ii](https://github.com/sam26092004/LEETCODE/tree/master/0518-coin-change-ii) |
 | [0878-shifting-letters](https://github.com/sam26092004/LEETCODE/tree/master/0878-shifting-letters) |
 | [1511-count-number-of-teams](https://github.com/sam26092004/LEETCODE/tree/master/1511-count-number-of-teams) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/sam26092004/LEETCODE/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0518-coin-change-ii](https://github.com/sam26092004/LEETCODE/tree/master/0518-coin-change-ii) |
 | [1170-shortest-common-supersequence](https://github.com/sam26092004/LEETCODE/tree/master/1170-shortest-common-supersequence) |
 | [1511-count-number-of-teams](https://github.com/sam26092004/LEETCODE/tree/master/1511-count-number-of-teams) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/sam26092004/LEETCODE/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
