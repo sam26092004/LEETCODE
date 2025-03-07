@@ -136,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0295-find-median-from-data-stream](https://github.com/sam26092004/LEETCODE/tree/master/0295-find-median-from-data-stream) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/sam26092004/LEETCODE/tree/master/2265-partition-array-according-to-given-pivot) |
 ## Simulation
 |  |
@@ -163,8 +164,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/sam26092004/LEETCODE/tree/master/0242-valid-anagram) |
+| [0295-find-median-from-data-stream](https://github.com/sam26092004/LEETCODE/tree/master/0295-find-median-from-data-stream) |
 ## Design
 |  |
 | ------- |
+| [0295-find-median-from-data-stream](https://github.com/sam26092004/LEETCODE/tree/master/0295-find-median-from-data-stream) |
 | [0449-serialize-and-deserialize-bst](https://github.com/sam26092004/LEETCODE/tree/master/0449-serialize-and-deserialize-bst) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0295-find-median-from-data-stream](https://github.com/sam26092004/LEETCODE/tree/master/0295-find-median-from-data-stream) |
+## Data Stream
+|  |
+| ------- |
+| [0295-find-median-from-data-stream](https://github.com/sam26092004/LEETCODE/tree/master/0295-find-median-from-data-stream) |
 <!---LeetCode Topics End-->
