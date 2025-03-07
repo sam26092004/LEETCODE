@@ -12,23 +12,27 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/sam26092004/LEETCODE/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/sam26092004/LEETCODE/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/sam26092004/LEETCODE/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0449-serialize-and-deserialize-bst](https://github.com/sam26092004/LEETCODE/tree/master/0449-serialize-and-deserialize-bst) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/sam26092004/LEETCODE/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/sam26092004/LEETCODE/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/sam26092004/LEETCODE/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0449-serialize-and-deserialize-bst](https://github.com/sam26092004/LEETCODE/tree/master/0449-serialize-and-deserialize-bst) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/sam26092004/LEETCODE/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/sam26092004/LEETCODE/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0449-serialize-and-deserialize-bst](https://github.com/sam26092004/LEETCODE/tree/master/0449-serialize-and-deserialize-bst) |
 ## Binary Tree
 |  |
 | ------- |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/sam26092004/LEETCODE/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/sam26092004/LEETCODE/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/sam26092004/LEETCODE/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0449-serialize-and-deserialize-bst](https://github.com/sam26092004/LEETCODE/tree/master/0449-serialize-and-deserialize-bst) |
 ## Array
 |  |
@@ -95,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/sam26092004/LEETCODE/tree/master/0242-valid-anagram) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/sam26092004/LEETCODE/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0449-serialize-and-deserialize-bst](https://github.com/sam26092004/LEETCODE/tree/master/0449-serialize-and-deserialize-bst) |
 | [0878-shifting-letters](https://github.com/sam26092004/LEETCODE/tree/master/0878-shifting-letters) |
 | [1170-shortest-common-supersequence](https://github.com/sam26092004/LEETCODE/tree/master/1170-shortest-common-supersequence) |
@@ -175,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/sam26092004/LEETCODE/tree/master/0295-find-median-from-data-stream) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/sam26092004/LEETCODE/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0449-serialize-and-deserialize-bst](https://github.com/sam26092004/LEETCODE/tree/master/0449-serialize-and-deserialize-bst) |
 ## Heap (Priority Queue)
 |  |
