@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0911-profitable-schemes](https://github.com/sam26092004/LEETCODE/tree/master/0911-profitable-schemes) |
 | [1170-shortest-common-supersequence](https://github.com/sam26092004/LEETCODE/tree/master/1170-shortest-common-supersequence) |
 | [1511-count-number-of-teams](https://github.com/sam26092004/LEETCODE/tree/master/1511-count-number-of-teams) |
+| [1517-restore-the-array](https://github.com/sam26092004/LEETCODE/tree/master/1517-restore-the-array) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/sam26092004/LEETCODE/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/sam26092004/LEETCODE/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/sam26092004/LEETCODE/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0878-shifting-letters](https://github.com/sam26092004/LEETCODE/tree/master/0878-shifting-letters) |
 | [1170-shortest-common-supersequence](https://github.com/sam26092004/LEETCODE/tree/master/1170-shortest-common-supersequence) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/sam26092004/LEETCODE/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [1517-restore-the-array](https://github.com/sam26092004/LEETCODE/tree/master/1517-restore-the-array) |
 | [2465-shifting-letters-ii](https://github.com/sam26092004/LEETCODE/tree/master/2465-shifting-letters-ii) |
 ## Hash Table
 |  |
