@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/sam26092004/LEETCODE/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/sam26092004/LEETCODE/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0274-h-index](https://github.com/sam26092004/LEETCODE/tree/master/0274-h-index) |
+| [0275-h-index-ii](https://github.com/sam26092004/LEETCODE/tree/master/0275-h-index-ii) |
 | [0518-coin-change-ii](https://github.com/sam26092004/LEETCODE/tree/master/0518-coin-change-ii) |
 | [0792-binary-search](https://github.com/sam26092004/LEETCODE/tree/master/0792-binary-search) |
 | [0878-shifting-letters](https://github.com/sam26092004/LEETCODE/tree/master/0878-shifting-letters) |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/sam26092004/LEETCODE/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/sam26092004/LEETCODE/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/sam26092004/LEETCODE/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [0275-h-index-ii](https://github.com/sam26092004/LEETCODE/tree/master/0275-h-index-ii) |
 | [0792-binary-search](https://github.com/sam26092004/LEETCODE/tree/master/0792-binary-search) |
 ## Graph
 |  |
