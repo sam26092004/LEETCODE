@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2262-solving-questions-with-brainpower](https://github.com/sam26092004/LEETCODE/tree/master/2262-solving-questions-with-brainpower) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/sam26092004/LEETCODE/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2465-shifting-letters-ii](https://github.com/sam26092004/LEETCODE/tree/master/2465-shifting-letters-ii) |
+| [2581-divide-players-into-teams-of-equal-skill](https://github.com/sam26092004/LEETCODE/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [3454-minimum-operations-to-make-array-equal-to-target](https://github.com/sam26092004/LEETCODE/tree/master/3454-minimum-operations-to-make-array-equal-to-target) |
 ## Math
 |  |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0242-valid-anagram](https://github.com/sam26092004/LEETCODE/tree/master/0242-valid-anagram) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/sam26092004/LEETCODE/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [2581-divide-players-into-teams-of-equal-skill](https://github.com/sam26092004/LEETCODE/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 ## Sliding Window
 |  |
 | ------- |
@@ -155,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/sam26092004/LEETCODE/tree/master/0295-find-median-from-data-stream) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/sam26092004/LEETCODE/tree/master/2265-partition-array-according-to-given-pivot) |
+| [2581-divide-players-into-teams-of-equal-skill](https://github.com/sam26092004/LEETCODE/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 ## Simulation
 |  |
 | ------- |
@@ -186,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0295-find-median-from-data-stream](https://github.com/sam26092004/LEETCODE/tree/master/0295-find-median-from-data-stream) |
 | [0368-largest-divisible-subset](https://github.com/sam26092004/LEETCODE/tree/master/0368-largest-divisible-subset) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/sam26092004/LEETCODE/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [2581-divide-players-into-teams-of-equal-skill](https://github.com/sam26092004/LEETCODE/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 ## Design
 |  |
 | ------- |
