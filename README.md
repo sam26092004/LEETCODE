@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/sam26092004/LEETCODE/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
+| [0860-design-circular-queue](https://github.com/sam26092004/LEETCODE/tree/master/0860-design-circular-queue) |
 ## Tree
 |  |
 | ------- |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0275-h-index-ii](https://github.com/sam26092004/LEETCODE/tree/master/0275-h-index-ii) |
 | [0518-coin-change-ii](https://github.com/sam26092004/LEETCODE/tree/master/0518-coin-change-ii) |
 | [0792-binary-search](https://github.com/sam26092004/LEETCODE/tree/master/0792-binary-search) |
+| [0860-design-circular-queue](https://github.com/sam26092004/LEETCODE/tree/master/0860-design-circular-queue) |
 | [0878-shifting-letters](https://github.com/sam26092004/LEETCODE/tree/master/0878-shifting-letters) |
 | [0911-profitable-schemes](https://github.com/sam26092004/LEETCODE/tree/master/0911-profitable-schemes) |
 | [1393-maximum-value-of-k-coins-from-piles](https://github.com/sam26092004/LEETCODE/tree/master/1393-maximum-value-of-k-coins-from-piles) |
@@ -164,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [0860-design-circular-queue](https://github.com/sam26092004/LEETCODE/tree/master/0860-design-circular-queue) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/sam26092004/LEETCODE/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Binary Search Tree
 |  |
@@ -182,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0295-find-median-from-data-stream](https://github.com/sam26092004/LEETCODE/tree/master/0295-find-median-from-data-stream) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/sam26092004/LEETCODE/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0449-serialize-and-deserialize-bst](https://github.com/sam26092004/LEETCODE/tree/master/0449-serialize-and-deserialize-bst) |
+| [0860-design-circular-queue](https://github.com/sam26092004/LEETCODE/tree/master/0860-design-circular-queue) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
