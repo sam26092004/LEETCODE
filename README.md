@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0132-palindrome-partitioning-ii](https://github.com/sam26092004/LEETCODE/tree/master/0132-palindrome-partitioning-ii) |
 | [0368-largest-divisible-subset](https://github.com/sam26092004/LEETCODE/tree/master/0368-largest-divisible-subset) |
 | [0518-coin-change-ii](https://github.com/sam26092004/LEETCODE/tree/master/0518-coin-change-ii) |
 | [0911-profitable-schemes](https://github.com/sam26092004/LEETCODE/tree/master/0911-profitable-schemes) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0132-palindrome-partitioning-ii](https://github.com/sam26092004/LEETCODE/tree/master/0132-palindrome-partitioning-ii) |
 | [0242-valid-anagram](https://github.com/sam26092004/LEETCODE/tree/master/0242-valid-anagram) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/sam26092004/LEETCODE/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0449-serialize-and-deserialize-bst](https://github.com/sam26092004/LEETCODE/tree/master/0449-serialize-and-deserialize-bst) |
