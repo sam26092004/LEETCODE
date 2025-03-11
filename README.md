@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/sam26092004/LEETCODE/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/sam26092004/LEETCODE/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0449-serialize-and-deserialize-bst](https://github.com/sam26092004/LEETCODE/tree/master/0449-serialize-and-deserialize-bst) |
+| [0764-n-ary-tree-level-order-traversal](https://github.com/sam26092004/LEETCODE/tree/master/0764-n-ary-tree-level-order-traversal) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/sam26092004/LEETCODE/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/sam26092004/LEETCODE/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0449-serialize-and-deserialize-bst](https://github.com/sam26092004/LEETCODE/tree/master/0449-serialize-and-deserialize-bst) |
+| [0764-n-ary-tree-level-order-traversal](https://github.com/sam26092004/LEETCODE/tree/master/0764-n-ary-tree-level-order-traversal) |
 | [2101-last-day-where-you-can-still-cross](https://github.com/sam26092004/LEETCODE/tree/master/2101-last-day-where-you-can-still-cross) |
 ## Binary Tree
 |  |
