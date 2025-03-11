@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0449-serialize-and-deserialize-bst](https://github.com/sam26092004/LEETCODE/tree/master/0449-serialize-and-deserialize-bst) |
 | [0764-n-ary-tree-level-order-traversal](https://github.com/sam26092004/LEETCODE/tree/master/0764-n-ary-tree-level-order-traversal) |
 | [2101-last-day-where-you-can-still-cross](https://github.com/sam26092004/LEETCODE/tree/master/2101-last-day-where-you-can-still-cross) |
+| [2151-the-time-when-the-network-becomes-idle](https://github.com/sam26092004/LEETCODE/tree/master/2151-the-time-when-the-network-becomes-idle) |
 ## Binary Tree
 |  |
 | ------- |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/sam26092004/LEETCODE/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/sam26092004/LEETCODE/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2101-last-day-where-you-can-still-cross](https://github.com/sam26092004/LEETCODE/tree/master/2101-last-day-where-you-can-still-cross) |
+| [2151-the-time-when-the-network-becomes-idle](https://github.com/sam26092004/LEETCODE/tree/master/2151-the-time-when-the-network-becomes-idle) |
 | [2262-solving-questions-with-brainpower](https://github.com/sam26092004/LEETCODE/tree/master/2262-solving-questions-with-brainpower) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/sam26092004/LEETCODE/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2465-shifting-letters-ii](https://github.com/sam26092004/LEETCODE/tree/master/2465-shifting-letters-ii) |
@@ -161,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph
 |  |
 | ------- |
+| [2151-the-time-when-the-network-becomes-idle](https://github.com/sam26092004/LEETCODE/tree/master/2151-the-time-when-the-network-becomes-idle) |
 | [3189-find-champion-ii](https://github.com/sam26092004/LEETCODE/tree/master/3189-find-champion-ii) |
 ## Two Pointers
 |  |
