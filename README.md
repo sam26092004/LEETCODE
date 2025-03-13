@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/sam26092004/LEETCODE/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [3418-count-pairs-that-form-a-complete-day-ii](https://github.com/sam26092004/LEETCODE/tree/master/3418-count-pairs-that-form-a-complete-day-ii) |
 | [3454-minimum-operations-to-make-array-equal-to-target](https://github.com/sam26092004/LEETCODE/tree/master/3454-minimum-operations-to-make-array-equal-to-target) |
+| [3639-zero-array-transformation-i](https://github.com/sam26092004/LEETCODE/tree/master/3639-zero-array-transformation-i) |
 ## Math
 |  |
 | ------- |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/sam26092004/LEETCODE/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1787-sum-of-absolute-differences-in-a-sorted-array](https://github.com/sam26092004/LEETCODE/tree/master/1787-sum-of-absolute-differences-in-a-sorted-array) |
 | [2465-shifting-letters-ii](https://github.com/sam26092004/LEETCODE/tree/master/2465-shifting-letters-ii) |
+| [3639-zero-array-transformation-i](https://github.com/sam26092004/LEETCODE/tree/master/3639-zero-array-transformation-i) |
 ## Binary Indexed Tree
 |  |
 | ------- |
