@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0911-profitable-schemes](https://github.com/sam26092004/LEETCODE/tree/master/0911-profitable-schemes) |
 | [1055-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/sam26092004/LEETCODE/tree/master/1055-pairs-of-songs-with-total-durations-divisible-by-60) |
 | [1206-corporate-flight-bookings](https://github.com/sam26092004/LEETCODE/tree/master/1206-corporate-flight-bookings) |
+| [1335-maximum-candies-allocated-to-k-children](https://github.com/sam26092004/LEETCODE/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1393-maximum-value-of-k-coins-from-piles](https://github.com/sam26092004/LEETCODE/tree/master/1393-maximum-value-of-k-coins-from-piles) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/sam26092004/LEETCODE/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [1511-count-number-of-teams](https://github.com/sam26092004/LEETCODE/tree/master/1511-count-number-of-teams) |
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/sam26092004/LEETCODE/tree/master/0240-search-a-2d-matrix-ii) |
 | [0275-h-index-ii](https://github.com/sam26092004/LEETCODE/tree/master/0275-h-index-ii) |
 | [0792-binary-search](https://github.com/sam26092004/LEETCODE/tree/master/0792-binary-search) |
+| [1335-maximum-candies-allocated-to-k-children](https://github.com/sam26092004/LEETCODE/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [2101-last-day-where-you-can-still-cross](https://github.com/sam26092004/LEETCODE/tree/master/2101-last-day-where-you-can-still-cross) |
 | [3643-zero-array-transformation-ii](https://github.com/sam26092004/LEETCODE/tree/master/3643-zero-array-transformation-ii) |
 ## Graph
