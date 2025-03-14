@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2262-solving-questions-with-brainpower](https://github.com/sam26092004/LEETCODE/tree/master/2262-solving-questions-with-brainpower) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/sam26092004/LEETCODE/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2465-shifting-letters-ii](https://github.com/sam26092004/LEETCODE/tree/master/2465-shifting-letters-ii) |
+| [2519-find-the-original-array-of-prefix-xor](https://github.com/sam26092004/LEETCODE/tree/master/2519-find-the-original-array-of-prefix-xor) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/sam26092004/LEETCODE/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [3418-count-pairs-that-form-a-complete-day-ii](https://github.com/sam26092004/LEETCODE/tree/master/3418-count-pairs-that-form-a-complete-day-ii) |
 | [3454-minimum-operations-to-make-array-equal-to-target](https://github.com/sam26092004/LEETCODE/tree/master/3454-minimum-operations-to-make-array-equal-to-target) |
@@ -256,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0491-non-decreasing-subsequences](https://github.com/sam26092004/LEETCODE/tree/master/0491-non-decreasing-subsequences) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/sam26092004/LEETCODE/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
+| [2519-find-the-original-array-of-prefix-xor](https://github.com/sam26092004/LEETCODE/tree/master/2519-find-the-original-array-of-prefix-xor) |
 ## Union Find
 |  |
 | ------- |
