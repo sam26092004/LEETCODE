@@ -261,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0491-non-decreasing-subsequences](https://github.com/sam26092004/LEETCODE/tree/master/0491-non-decreasing-subsequences) |
+| [1441-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/sam26092004/LEETCODE/tree/master/1441-minimum-flips-to-make-a-or-b-equal-to-c) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/sam26092004/LEETCODE/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/sam26092004/LEETCODE/tree/master/2519-find-the-original-array-of-prefix-xor) |
 ## Union Find
