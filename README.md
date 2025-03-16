@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/sam26092004/LEETCODE/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0227-basic-calculator-ii](https://github.com/sam26092004/LEETCODE/tree/master/0227-basic-calculator-ii) |
+| [0231-power-of-two](https://github.com/sam26092004/LEETCODE/tree/master/0231-power-of-two) |
 | [0241-different-ways-to-add-parentheses](https://github.com/sam26092004/LEETCODE/tree/master/0241-different-ways-to-add-parentheses) |
 | [0368-largest-divisible-subset](https://github.com/sam26092004/LEETCODE/tree/master/0368-largest-divisible-subset) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/sam26092004/LEETCODE/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
@@ -215,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/sam26092004/LEETCODE/tree/master/0231-power-of-two) |
 | [0241-different-ways-to-add-parentheses](https://github.com/sam26092004/LEETCODE/tree/master/0241-different-ways-to-add-parentheses) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/sam26092004/LEETCODE/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Queue
@@ -266,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/sam26092004/LEETCODE/tree/master/0231-power-of-two) |
 | [0491-non-decreasing-subsequences](https://github.com/sam26092004/LEETCODE/tree/master/0491-non-decreasing-subsequences) |
 | [1441-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/sam26092004/LEETCODE/tree/master/1441-minimum-flips-to-make-a-or-b-equal-to-c) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/sam26092004/LEETCODE/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
