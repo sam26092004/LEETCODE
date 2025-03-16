@@ -147,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1170-shortest-common-supersequence](https://github.com/sam26092004/LEETCODE/tree/master/1170-shortest-common-supersequence) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/sam26092004/LEETCODE/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1517-restore-the-array](https://github.com/sam26092004/LEETCODE/tree/master/1517-restore-the-array) |
+| [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/sam26092004/LEETCODE/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/sam26092004/LEETCODE/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2465-shifting-letters-ii](https://github.com/sam26092004/LEETCODE/tree/master/2465-shifting-letters-ii) |
 ## Hash Table
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0438-find-all-anagrams-in-a-string](https://github.com/sam26092004/LEETCODE/tree/master/0438-find-all-anagrams-in-a-string) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/sam26092004/LEETCODE/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/sam26092004/LEETCODE/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 ## Stack
 |  |
 | ------- |
