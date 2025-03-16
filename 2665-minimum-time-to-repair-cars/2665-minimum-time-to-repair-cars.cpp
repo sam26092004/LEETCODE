@@ -10,7 +10,8 @@ public:
     }
 
     long long repairCars(vector<int>& ranks, int cars) {
-        long long maxRank = *max_element(ranks.begin(), ranks.end());
+        sort(ranks.begin(),ranks.end());
+        long long maxRank =ranks.back();
         long long maxTime = maxRank * (long long) cars * cars; 
 
         long long start = 0, end = maxTime, ans = -1;
