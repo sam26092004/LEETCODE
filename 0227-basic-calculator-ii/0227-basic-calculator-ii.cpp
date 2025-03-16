@@ -1,9 +1,8 @@
 class Solution {
 public:
     int precedence(char operation) {
-        return (operation == '+' || operation == '-') ? 1 : 2;
+        return (operation == '+' || operation == '-') ?  1 : 2;
     }
-
     int applyOperation(int a, int b, char operation) {
         switch (operation) {
             case '+': return a + b;
@@ -13,48 +12,47 @@ public:
         }
         return 0;
     }
-
     int calculate(string s) {
-        stack<int> operands;
-        stack<char> operators;
+        stack<int> operand;
+        stack<char> opstack;
         int num = 0;
         bool hasNum = false;
 
         for (int i = 0; i < s.size(); i++) {
-            char ch = s[i];
-
-            if (isdigit(ch)) {
-                num = num * 10 + (ch - '0');
+            if (isspace(s[i]))
+                continue;
+            else if (isdigit(s[i])) {
                 hasNum = true;
-            } 
-            else if (ch == ' ') continue;
-
-            else { 
-                if (hasNum) {
-                    operands.push(num);
+                num = num * 10 + (s[i] - '0');
+            } else {
+               if (hasNum) {
+                    operand.push(num);
                     num = 0;
                     hasNum = false;
                 }
-
-                while (!operators.empty() && precedence(operators.top()) >= precedence(ch)) {
-                    int b = operands.top(); operands.pop();
-                    int a = operands.top(); operands.pop();
-                    char op = operators.top(); operators.pop();
-                    operands.push(applyOperation(a, b, op));
+                while (!opstack.empty() &&
+                       precedence(opstack.top()) >= precedence(s[i])) {
+                    int num1 = operand.top();
+                    operand.pop();
+                    int num2 = operand.top();
+                    operand.pop();
+                    char operation = opstack.top();
+                    opstack.pop();
+                    int result = applyOperation(num2, num1, operation);
+                    operand.push(result);
                 }
-                operators.push(ch);
+                opstack.push(s[i]);
             }
         }
-
-        if (hasNum) operands.push(num);
-
-        while (!operators.empty()) {
-            int b = operands.top(); operands.pop();
-            int a = operands.top(); operands.pop();
-            char op = operators.top(); operators.pop();
-            operands.push(applyOperation(a, b, op));
+        if (hasNum) {
+            operand.push(num);
         }
-
-        return operands.top();
+        while (!opstack.empty()) {
+            int b = operand.top(); operand.pop();
+            int a = operand.top(); operand.pop();
+            char op = opstack.top(); opstack.pop();
+            operand.push(applyOperation(a, b, op));
+        }
+        return operand.top();
     }
 };
