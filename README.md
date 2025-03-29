@@ -221,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph
 |  |
 | ------- |
+| [1701-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/sam26092004/LEETCODE/tree/master/1701-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/sam26092004/LEETCODE/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2151-the-time-when-the-network-becomes-idle](https://github.com/sam26092004/LEETCODE/tree/master/2151-the-time-when-the-network-becomes-idle) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/sam26092004/LEETCODE/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
@@ -311,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union Find
 |  |
 | ------- |
+| [1701-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/sam26092004/LEETCODE/tree/master/1701-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
 | [2101-last-day-where-you-can-still-cross](https://github.com/sam26092004/LEETCODE/tree/master/2101-last-day-where-you-can-still-cross) |
 ## Matrix
 |  |
