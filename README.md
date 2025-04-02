@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2262-solving-questions-with-brainpower](https://github.com/sam26092004/LEETCODE/tree/master/2262-solving-questions-with-brainpower) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/sam26092004/LEETCODE/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2465-shifting-letters-ii](https://github.com/sam26092004/LEETCODE/tree/master/2465-shifting-letters-ii) |
+| [2466-maximum-segment-sum-after-removals](https://github.com/sam26092004/LEETCODE/tree/master/2466-maximum-segment-sum-after-removals) |
 | [2478-longest-nice-subarray](https://github.com/sam26092004/LEETCODE/tree/master/2478-longest-nice-subarray) |
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/sam26092004/LEETCODE/tree/master/2519-find-the-original-array-of-prefix-xor) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/sam26092004/LEETCODE/tree/master/2581-divide-players-into-teams-of-equal-skill) |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/sam26092004/LEETCODE/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1787-sum-of-absolute-differences-in-a-sorted-array](https://github.com/sam26092004/LEETCODE/tree/master/1787-sum-of-absolute-differences-in-a-sorted-array) |
 | [2465-shifting-letters-ii](https://github.com/sam26092004/LEETCODE/tree/master/2465-shifting-letters-ii) |
+| [2466-maximum-segment-sum-after-removals](https://github.com/sam26092004/LEETCODE/tree/master/2466-maximum-segment-sum-after-removals) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/sam26092004/LEETCODE/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3639-zero-array-transformation-i](https://github.com/sam26092004/LEETCODE/tree/master/3639-zero-array-transformation-i) |
 | [3643-zero-array-transformation-ii](https://github.com/sam26092004/LEETCODE/tree/master/3643-zero-array-transformation-ii) |
@@ -322,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1701-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/sam26092004/LEETCODE/tree/master/1701-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
 | [2101-last-day-where-you-can-still-cross](https://github.com/sam26092004/LEETCODE/tree/master/2101-last-day-where-you-can-still-cross) |
+| [2466-maximum-segment-sum-after-removals](https://github.com/sam26092004/LEETCODE/tree/master/2466-maximum-segment-sum-after-removals) |
 ## Matrix
 |  |
 | ------- |
@@ -355,4 +358,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/sam26092004/LEETCODE/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [2466-maximum-segment-sum-after-removals](https://github.com/sam26092004/LEETCODE/tree/master/2466-maximum-segment-sum-after-removals) |
 <!---LeetCode Topics End-->
