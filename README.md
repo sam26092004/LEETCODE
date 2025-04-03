@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0241-different-ways-to-add-parentheses](https://github.com/sam26092004/LEETCODE/tree/master/0241-different-ways-to-add-parentheses) |
 | [0326-power-of-three](https://github.com/sam26092004/LEETCODE/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/sam26092004/LEETCODE/tree/master/0342-power-of-four) |
+| [0357-count-numbers-with-unique-digits](https://github.com/sam26092004/LEETCODE/tree/master/0357-count-numbers-with-unique-digits) |
 | [0368-largest-divisible-subset](https://github.com/sam26092004/LEETCODE/tree/master/0368-largest-divisible-subset) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/sam26092004/LEETCODE/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1057-numbers-with-repeated-digits](https://github.com/sam26092004/LEETCODE/tree/master/1057-numbers-with-repeated-digits) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0132-palindrome-partitioning-ii](https://github.com/sam26092004/LEETCODE/tree/master/0132-palindrome-partitioning-ii) |
 | [0241-different-ways-to-add-parentheses](https://github.com/sam26092004/LEETCODE/tree/master/0241-different-ways-to-add-parentheses) |
 | [0354-russian-doll-envelopes](https://github.com/sam26092004/LEETCODE/tree/master/0354-russian-doll-envelopes) |
+| [0357-count-numbers-with-unique-digits](https://github.com/sam26092004/LEETCODE/tree/master/0357-count-numbers-with-unique-digits) |
 | [0368-largest-divisible-subset](https://github.com/sam26092004/LEETCODE/tree/master/0368-largest-divisible-subset) |
 | [0518-coin-change-ii](https://github.com/sam26092004/LEETCODE/tree/master/0518-coin-change-ii) |
 | [0741-cherry-pickup](https://github.com/sam26092004/LEETCODE/tree/master/0741-cherry-pickup) |
@@ -311,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0357-count-numbers-with-unique-digits](https://github.com/sam26092004/LEETCODE/tree/master/0357-count-numbers-with-unique-digits) |
 | [0491-non-decreasing-subsequences](https://github.com/sam26092004/LEETCODE/tree/master/0491-non-decreasing-subsequences) |
 ## Bit Manipulation
 |  |
