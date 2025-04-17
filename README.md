@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2457-count-special-integers](https://github.com/sam26092004/LEETCODE/tree/master/2457-count-special-integers) |
 | [2575-minimum-cuts-to-divide-a-circle](https://github.com/sam26092004/LEETCODE/tree/master/2575-minimum-cuts-to-divide-a-circle) |
 | [3017-number-of-beautiful-integers-in-the-range](https://github.com/sam26092004/LEETCODE/tree/master/3017-number-of-beautiful-integers-in-the-range) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/sam26092004/LEETCODE/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/sam26092004/LEETCODE/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/sam26092004/LEETCODE/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2465-shifting-letters-ii](https://github.com/sam26092004/LEETCODE/tree/master/2465-shifting-letters-ii) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/sam26092004/LEETCODE/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -254,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1951-find-the-winner-of-the-circular-game](https://github.com/sam26092004/LEETCODE/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/sam26092004/LEETCODE/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/sam26092004/LEETCODE/tree/master/2265-partition-array-according-to-given-pivot) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/sam26092004/LEETCODE/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Geometry
 |  |
 | ------- |
@@ -368,4 +371,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/sam26092004/LEETCODE/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [2466-maximum-segment-sum-after-removals](https://github.com/sam26092004/LEETCODE/tree/master/2466-maximum-segment-sum-after-removals) |
+## Combinatorics
+|  |
+| ------- |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/sam26092004/LEETCODE/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
+## Number Theory
+|  |
+| ------- |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/sam26092004/LEETCODE/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 <!---LeetCode Topics End-->
