@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2478-longest-nice-subarray](https://github.com/sam26092004/LEETCODE/tree/master/2478-longest-nice-subarray) |
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/sam26092004/LEETCODE/tree/master/2519-find-the-original-array-of-prefix-xor) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/sam26092004/LEETCODE/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [2657-minimum-time-to-complete-all-tasks](https://github.com/sam26092004/LEETCODE/tree/master/2657-minimum-time-to-complete-all-tasks) |
 | [2665-minimum-time-to-repair-cars](https://github.com/sam26092004/LEETCODE/tree/master/2665-minimum-time-to-repair-cars) |
 | [3418-count-pairs-that-form-a-complete-day-ii](https://github.com/sam26092004/LEETCODE/tree/master/3418-count-pairs-that-form-a-complete-day-ii) |
 | [3454-minimum-operations-to-make-array-equal-to-target](https://github.com/sam26092004/LEETCODE/tree/master/3454-minimum-operations-to-make-array-equal-to-target) |
@@ -210,11 +211,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0227-basic-calculator-ii](https://github.com/sam26092004/LEETCODE/tree/master/0227-basic-calculator-ii) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/sam26092004/LEETCODE/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/sam26092004/LEETCODE/tree/master/2021-remove-all-occurrences-of-a-substring) |
+| [2657-minimum-time-to-complete-all-tasks](https://github.com/sam26092004/LEETCODE/tree/master/2657-minimum-time-to-complete-all-tasks) |
 | [3454-minimum-operations-to-make-array-equal-to-target](https://github.com/sam26092004/LEETCODE/tree/master/3454-minimum-operations-to-make-array-equal-to-target) |
 ## Greedy
 |  |
 | ------- |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/sam26092004/LEETCODE/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
+| [2657-minimum-time-to-complete-all-tasks](https://github.com/sam26092004/LEETCODE/tree/master/2657-minimum-time-to-complete-all-tasks) |
 | [3454-minimum-operations-to-make-array-equal-to-target](https://github.com/sam26092004/LEETCODE/tree/master/3454-minimum-operations-to-make-array-equal-to-target) |
 ## Monotonic Stack
 |  |
@@ -235,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0792-binary-search](https://github.com/sam26092004/LEETCODE/tree/master/0792-binary-search) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/sam26092004/LEETCODE/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [2101-last-day-where-you-can-still-cross](https://github.com/sam26092004/LEETCODE/tree/master/2101-last-day-where-you-can-still-cross) |
+| [2657-minimum-time-to-complete-all-tasks](https://github.com/sam26092004/LEETCODE/tree/master/2657-minimum-time-to-complete-all-tasks) |
 | [2665-minimum-time-to-repair-cars](https://github.com/sam26092004/LEETCODE/tree/master/2665-minimum-time-to-repair-cars) |
 | [3643-zero-array-transformation-ii](https://github.com/sam26092004/LEETCODE/tree/master/3643-zero-array-transformation-ii) |
 ## Graph
@@ -293,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/sam26092004/LEETCODE/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/sam26092004/LEETCODE/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/sam26092004/LEETCODE/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [2657-minimum-time-to-complete-all-tasks](https://github.com/sam26092004/LEETCODE/tree/master/2657-minimum-time-to-complete-all-tasks) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/sam26092004/LEETCODE/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 ## Design
 |  |
