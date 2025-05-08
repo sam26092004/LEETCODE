@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1511-count-number-of-teams](https://github.com/sam26092004/LEETCODE/tree/master/1511-count-number-of-teams) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/sam26092004/LEETCODE/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/sam26092004/LEETCODE/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
+| [1723-maximum-number-of-achievable-transfer-requests](https://github.com/sam26092004/LEETCODE/tree/master/1723-maximum-number-of-achievable-transfer-requests) |
 | [1787-sum-of-absolute-differences-in-a-sorted-array](https://github.com/sam26092004/LEETCODE/tree/master/1787-sum-of-absolute-differences-in-a-sorted-array) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/sam26092004/LEETCODE/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/sam26092004/LEETCODE/tree/master/1951-find-the-winner-of-the-circular-game) |
@@ -332,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0357-count-numbers-with-unique-digits](https://github.com/sam26092004/LEETCODE/tree/master/0357-count-numbers-with-unique-digits) |
 | [0491-non-decreasing-subsequences](https://github.com/sam26092004/LEETCODE/tree/master/0491-non-decreasing-subsequences) |
+| [1723-maximum-number-of-achievable-transfer-requests](https://github.com/sam26092004/LEETCODE/tree/master/1723-maximum-number-of-achievable-transfer-requests) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -340,6 +342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0491-non-decreasing-subsequences](https://github.com/sam26092004/LEETCODE/tree/master/0491-non-decreasing-subsequences) |
 | [1441-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/sam26092004/LEETCODE/tree/master/1441-minimum-flips-to-make-a-or-b-equal-to-c) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/sam26092004/LEETCODE/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
+| [1723-maximum-number-of-achievable-transfer-requests](https://github.com/sam26092004/LEETCODE/tree/master/1723-maximum-number-of-achievable-transfer-requests) |
 | [2478-longest-nice-subarray](https://github.com/sam26092004/LEETCODE/tree/master/2478-longest-nice-subarray) |
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/sam26092004/LEETCODE/tree/master/2519-find-the-original-array-of-prefix-xor) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/sam26092004/LEETCODE/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
@@ -394,4 +397,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/sam26092004/LEETCODE/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
+## Enumeration
+|  |
+| ------- |
+| [1723-maximum-number-of-achievable-transfer-requests](https://github.com/sam26092004/LEETCODE/tree/master/1723-maximum-number-of-achievable-transfer-requests) |
 <!---LeetCode Topics End-->
