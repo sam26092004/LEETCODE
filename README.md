@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0274-h-index](https://github.com/sam26092004/LEETCODE/tree/master/0274-h-index) |
 | [0275-h-index-ii](https://github.com/sam26092004/LEETCODE/tree/master/0275-h-index-ii) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/sam26092004/LEETCODE/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [0334-increasing-triplet-subsequence](https://github.com/sam26092004/LEETCODE/tree/master/0334-increasing-triplet-subsequence) |
 | [0354-russian-doll-envelopes](https://github.com/sam26092004/LEETCODE/tree/master/0354-russian-doll-envelopes) |
 | [0368-largest-divisible-subset](https://github.com/sam26092004/LEETCODE/tree/master/0368-largest-divisible-subset) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/sam26092004/LEETCODE/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
@@ -221,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0334-increasing-triplet-subsequence](https://github.com/sam26092004/LEETCODE/tree/master/0334-increasing-triplet-subsequence) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/sam26092004/LEETCODE/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [2657-minimum-time-to-complete-all-tasks](https://github.com/sam26092004/LEETCODE/tree/master/2657-minimum-time-to-complete-all-tasks) |
 | [3454-minimum-operations-to-make-array-equal-to-target](https://github.com/sam26092004/LEETCODE/tree/master/3454-minimum-operations-to-make-array-equal-to-target) |
