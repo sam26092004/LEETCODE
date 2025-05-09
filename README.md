@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2657-minimum-time-to-complete-all-tasks](https://github.com/sam26092004/LEETCODE/tree/master/2657-minimum-time-to-complete-all-tasks) |
 | [2665-minimum-time-to-repair-cars](https://github.com/sam26092004/LEETCODE/tree/master/2665-minimum-time-to-repair-cars) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/sam26092004/LEETCODE/tree/master/2856-count-complete-subarrays-in-an-array) |
+| [3235-minimum-cost-to-convert-string-i](https://github.com/sam26092004/LEETCODE/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3418-count-pairs-that-form-a-complete-day-ii](https://github.com/sam26092004/LEETCODE/tree/master/3418-count-pairs-that-form-a-complete-day-ii) |
 | [3454-minimum-operations-to-make-array-equal-to-target](https://github.com/sam26092004/LEETCODE/tree/master/3454-minimum-operations-to-make-array-equal-to-target) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/sam26092004/LEETCODE/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
@@ -188,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/sam26092004/LEETCODE/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/sam26092004/LEETCODE/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2465-shifting-letters-ii](https://github.com/sam26092004/LEETCODE/tree/master/2465-shifting-letters-ii) |
+| [3235-minimum-cost-to-convert-string-i](https://github.com/sam26092004/LEETCODE/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/sam26092004/LEETCODE/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Hash Table
 |  |
@@ -257,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2151-the-time-when-the-network-becomes-idle](https://github.com/sam26092004/LEETCODE/tree/master/2151-the-time-when-the-network-becomes-idle) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/sam26092004/LEETCODE/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [3189-find-champion-ii](https://github.com/sam26092004/LEETCODE/tree/master/3189-find-champion-ii) |
+| [3235-minimum-cost-to-convert-string-i](https://github.com/sam26092004/LEETCODE/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/sam26092004/LEETCODE/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/sam26092004/LEETCODE/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 ## Two Pointers
@@ -385,6 +388,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/sam26092004/LEETCODE/tree/master/2090-number-of-ways-to-arrive-at-destination) |
+| [3235-minimum-cost-to-convert-string-i](https://github.com/sam26092004/LEETCODE/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/sam26092004/LEETCODE/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/sam26092004/LEETCODE/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 ## Merge Sort
