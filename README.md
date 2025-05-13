@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2457-count-special-integers](https://github.com/sam26092004/LEETCODE/tree/master/2457-count-special-integers) |
 | [2575-minimum-cuts-to-divide-a-circle](https://github.com/sam26092004/LEETCODE/tree/master/2575-minimum-cuts-to-divide-a-circle) |
 | [3017-number-of-beautiful-integers-in-the-range](https://github.com/sam26092004/LEETCODE/tree/master/3017-number-of-beautiful-integers-in-the-range) |
+| [3629-total-characters-in-string-after-transformations-i](https://github.com/sam26092004/LEETCODE/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/sam26092004/LEETCODE/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Dynamic Programming
 |  |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2457-count-special-integers](https://github.com/sam26092004/LEETCODE/tree/master/2457-count-special-integers) |
 | [3017-number-of-beautiful-integers-in-the-range](https://github.com/sam26092004/LEETCODE/tree/master/3017-number-of-beautiful-integers-in-the-range) |
 | [3454-minimum-operations-to-make-array-equal-to-target](https://github.com/sam26092004/LEETCODE/tree/master/3454-minimum-operations-to-make-array-equal-to-target) |
+| [3629-total-characters-in-string-after-transformations-i](https://github.com/sam26092004/LEETCODE/tree/master/3629-total-characters-in-string-after-transformations-i) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -190,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/sam26092004/LEETCODE/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2465-shifting-letters-ii](https://github.com/sam26092004/LEETCODE/tree/master/2465-shifting-letters-ii) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/sam26092004/LEETCODE/tree/master/3235-minimum-cost-to-convert-string-i) |
+| [3629-total-characters-in-string-after-transformations-i](https://github.com/sam26092004/LEETCODE/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/sam26092004/LEETCODE/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Hash Table
 |  |
@@ -204,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/sam26092004/LEETCODE/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/sam26092004/LEETCODE/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [3418-count-pairs-that-form-a-complete-day-ii](https://github.com/sam26092004/LEETCODE/tree/master/3418-count-pairs-that-form-a-complete-day-ii) |
+| [3629-total-characters-in-string-after-transformations-i](https://github.com/sam26092004/LEETCODE/tree/master/3629-total-characters-in-string-after-transformations-i) |
 ## Sliding Window
 |  |
 | ------- |
@@ -336,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1055-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/sam26092004/LEETCODE/tree/master/1055-pairs-of-songs-with-total-durations-divisible-by-60) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/sam26092004/LEETCODE/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [3418-count-pairs-that-form-a-complete-day-ii](https://github.com/sam26092004/LEETCODE/tree/master/3418-count-pairs-that-form-a-complete-day-ii) |
+| [3629-total-characters-in-string-after-transformations-i](https://github.com/sam26092004/LEETCODE/tree/master/3629-total-characters-in-string-after-transformations-i) |
 ## Backtracking
 |  |
 | ------- |
