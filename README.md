@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/sam26092004/LEETCODE/tree/master/0033-search-in-rotated-sorted-array) |
+| [0075-sort-colors](https://github.com/sam26092004/LEETCODE/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/sam26092004/LEETCODE/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/sam26092004/LEETCODE/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/sam26092004/LEETCODE/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -269,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/sam26092004/LEETCODE/tree/master/0075-sort-colors) |
 | [0295-find-median-from-data-stream](https://github.com/sam26092004/LEETCODE/tree/master/0295-find-median-from-data-stream) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/sam26092004/LEETCODE/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/sam26092004/LEETCODE/tree/master/2581-divide-players-into-teams-of-equal-skill) |
@@ -305,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/sam26092004/LEETCODE/tree/master/0075-sort-colors) |
 | [0242-valid-anagram](https://github.com/sam26092004/LEETCODE/tree/master/0242-valid-anagram) |
 | [0274-h-index](https://github.com/sam26092004/LEETCODE/tree/master/0274-h-index) |
 | [0295-find-median-from-data-stream](https://github.com/sam26092004/LEETCODE/tree/master/0295-find-median-from-data-stream) |
