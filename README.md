@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/sam26092004/LEETCODE/tree/master/0033-search-in-rotated-sorted-array) |
+| [0073-set-matrix-zeroes](https://github.com/sam26092004/LEETCODE/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/sam26092004/LEETCODE/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/sam26092004/LEETCODE/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/sam26092004/LEETCODE/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -198,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/sam26092004/LEETCODE/tree/master/0073-set-matrix-zeroes) |
 | [0242-valid-anagram](https://github.com/sam26092004/LEETCODE/tree/master/0242-valid-anagram) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/sam26092004/LEETCODE/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0491-non-decreasing-subsequences](https://github.com/sam26092004/LEETCODE/tree/master/0491-non-decreasing-subsequences) |
@@ -372,6 +374,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/sam26092004/LEETCODE/tree/master/0073-set-matrix-zeroes) |
 | [0240-search-a-2d-matrix-ii](https://github.com/sam26092004/LEETCODE/tree/master/0240-search-a-2d-matrix-ii) |
 | [0741-cherry-pickup](https://github.com/sam26092004/LEETCODE/tree/master/0741-cherry-pickup) |
 | [1224-minimum-falling-path-sum-ii](https://github.com/sam26092004/LEETCODE/tree/master/1224-minimum-falling-path-sum-ii) |
