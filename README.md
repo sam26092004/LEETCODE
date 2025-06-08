@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/sam26092004/LEETCODE/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/sam26092004/LEETCODE/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0310-minimum-height-trees](https://github.com/sam26092004/LEETCODE/tree/master/0310-minimum-height-trees) |
+| [0386-lexicographical-numbers](https://github.com/sam26092004/LEETCODE/tree/master/0386-lexicographical-numbers) |
 | [0449-serialize-and-deserialize-bst](https://github.com/sam26092004/LEETCODE/tree/master/0449-serialize-and-deserialize-bst) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/sam26092004/LEETCODE/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [2101-last-day-where-you-can-still-cross](https://github.com/sam26092004/LEETCODE/tree/master/2101-last-day-where-you-can-still-cross) |
@@ -432,4 +433,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1723-maximum-number-of-achievable-transfer-requests](https://github.com/sam26092004/LEETCODE/tree/master/1723-maximum-number-of-achievable-transfer-requests) |
+## Trie
+|  |
+| ------- |
+| [0386-lexicographical-numbers](https://github.com/sam26092004/LEETCODE/tree/master/0386-lexicographical-numbers) |
 <!---LeetCode Topics End-->
