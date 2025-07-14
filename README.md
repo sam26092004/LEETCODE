@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2465-shifting-letters-ii](https://github.com/sam26092004/LEETCODE/tree/master/2465-shifting-letters-ii) |
 | [2466-maximum-segment-sum-after-removals](https://github.com/sam26092004/LEETCODE/tree/master/2466-maximum-segment-sum-after-removals) |
 | [2478-longest-nice-subarray](https://github.com/sam26092004/LEETCODE/tree/master/2478-longest-nice-subarray) |
+| [2497-maximum-matching-of-players-with-trainers](https://github.com/sam26092004/LEETCODE/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/sam26092004/LEETCODE/tree/master/2519-find-the-original-array-of-prefix-xor) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/sam26092004/LEETCODE/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2657-minimum-time-to-complete-all-tasks](https://github.com/sam26092004/LEETCODE/tree/master/2657-minimum-time-to-complete-all-tasks) |
@@ -241,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0334-increasing-triplet-subsequence](https://github.com/sam26092004/LEETCODE/tree/master/0334-increasing-triplet-subsequence) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/sam26092004/LEETCODE/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1938-minimum-operations-to-make-the-array-increasing](https://github.com/sam26092004/LEETCODE/tree/master/1938-minimum-operations-to-make-the-array-increasing) |
+| [2497-maximum-matching-of-players-with-trainers](https://github.com/sam26092004/LEETCODE/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2657-minimum-time-to-complete-all-tasks](https://github.com/sam26092004/LEETCODE/tree/master/2657-minimum-time-to-complete-all-tasks) |
 | [3454-minimum-operations-to-make-array-equal-to-target](https://github.com/sam26092004/LEETCODE/tree/master/3454-minimum-operations-to-make-array-equal-to-target) |
 ## Monotonic Stack
@@ -283,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/sam26092004/LEETCODE/tree/master/0075-sort-colors) |
 | [0295-find-median-from-data-stream](https://github.com/sam26092004/LEETCODE/tree/master/0295-find-median-from-data-stream) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/sam26092004/LEETCODE/tree/master/2265-partition-array-according-to-given-pivot) |
+| [2497-maximum-matching-of-players-with-trainers](https://github.com/sam26092004/LEETCODE/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/sam26092004/LEETCODE/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 ## Simulation
 |  |
@@ -327,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/sam26092004/LEETCODE/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/sam26092004/LEETCODE/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/sam26092004/LEETCODE/tree/master/1669-minimum-cost-to-cut-a-stick) |
+| [2497-maximum-matching-of-players-with-trainers](https://github.com/sam26092004/LEETCODE/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/sam26092004/LEETCODE/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2657-minimum-time-to-complete-all-tasks](https://github.com/sam26092004/LEETCODE/tree/master/2657-minimum-time-to-complete-all-tasks) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/sam26092004/LEETCODE/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
