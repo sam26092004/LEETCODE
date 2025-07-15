@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2856-count-complete-subarrays-in-an-array](https://github.com/sam26092004/LEETCODE/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/sam26092004/LEETCODE/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3418-count-pairs-that-form-a-complete-day-ii](https://github.com/sam26092004/LEETCODE/tree/master/3418-count-pairs-that-form-a-complete-day-ii) |
+| [3430-count-days-without-meetings](https://github.com/sam26092004/LEETCODE/tree/master/3430-count-days-without-meetings) |
 | [3454-minimum-operations-to-make-array-equal-to-target](https://github.com/sam26092004/LEETCODE/tree/master/3454-minimum-operations-to-make-array-equal-to-target) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/sam26092004/LEETCODE/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/sam26092004/LEETCODE/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
@@ -333,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/sam26092004/LEETCODE/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/sam26092004/LEETCODE/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2657-minimum-time-to-complete-all-tasks](https://github.com/sam26092004/LEETCODE/tree/master/2657-minimum-time-to-complete-all-tasks) |
+| [3430-count-days-without-meetings](https://github.com/sam26092004/LEETCODE/tree/master/3430-count-days-without-meetings) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/sam26092004/LEETCODE/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 ## Design
 |  |
