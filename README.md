@@ -148,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1057-numbers-with-repeated-digits](https://github.com/sam26092004/LEETCODE/tree/master/1057-numbers-with-repeated-digits) |
 | [1170-shortest-common-supersequence](https://github.com/sam26092004/LEETCODE/tree/master/1170-shortest-common-supersequence) |
 | [1224-minimum-falling-path-sum-ii](https://github.com/sam26092004/LEETCODE/tree/master/1224-minimum-falling-path-sum-ii) |
+| [1332-count-vowels-permutation](https://github.com/sam26092004/LEETCODE/tree/master/1332-count-vowels-permutation) |
 | [1393-maximum-value-of-k-coins-from-piles](https://github.com/sam26092004/LEETCODE/tree/master/1393-maximum-value-of-k-coins-from-piles) |
 | [1511-count-number-of-teams](https://github.com/sam26092004/LEETCODE/tree/master/1511-count-number-of-teams) |
 | [1517-restore-the-array](https://github.com/sam26092004/LEETCODE/tree/master/1517-restore-the-array) |
