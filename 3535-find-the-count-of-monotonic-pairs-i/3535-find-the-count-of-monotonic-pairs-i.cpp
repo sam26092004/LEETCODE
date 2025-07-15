@@ -14,7 +14,7 @@ public:
             return dp[idx][prev1][p2];
 
         int arrays = 0;
-        for (int i = 0; i <= nums[idx]; i++) {
+        for (int i = prev1; i <= nums[idx]; i++) {
             if (i >= prev1 && nums[idx] - i <= prev2) {
                 arrays = (arrays + generateArrays(nums, idx + 1, i, nums[idx] - i)) % MOD;
             }
