@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2457-count-special-integers](https://github.com/sam26092004/LEETCODE/tree/master/2457-count-special-integers) |
 | [2575-minimum-cuts-to-divide-a-circle](https://github.com/sam26092004/LEETCODE/tree/master/2575-minimum-cuts-to-divide-a-circle) |
 | [3017-number-of-beautiful-integers-in-the-range](https://github.com/sam26092004/LEETCODE/tree/master/3017-number-of-beautiful-integers-in-the-range) |
+| [3201-distribute-candies-among-children-ii](https://github.com/sam26092004/LEETCODE/tree/master/3201-distribute-candies-among-children-ii) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/sam26092004/LEETCODE/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/sam26092004/LEETCODE/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Dynamic Programming
@@ -430,6 +431,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Combinatorics
 |  |
 | ------- |
+| [3201-distribute-candies-among-children-ii](https://github.com/sam26092004/LEETCODE/tree/master/3201-distribute-candies-among-children-ii) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/sam26092004/LEETCODE/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Number Theory
 |  |
@@ -439,6 +441,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1723-maximum-number-of-achievable-transfer-requests](https://github.com/sam26092004/LEETCODE/tree/master/1723-maximum-number-of-achievable-transfer-requests) |
+| [3201-distribute-candies-among-children-ii](https://github.com/sam26092004/LEETCODE/tree/master/3201-distribute-candies-among-children-ii) |
 ## Trie
 |  |
 | ------- |
