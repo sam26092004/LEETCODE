@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0354-russian-doll-envelopes](https://github.com/sam26092004/LEETCODE/tree/master/0354-russian-doll-envelopes) |
 | [0368-largest-divisible-subset](https://github.com/sam26092004/LEETCODE/tree/master/0368-largest-divisible-subset) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/sam26092004/LEETCODE/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [0489-kth-smallest-instructions](https://github.com/sam26092004/LEETCODE/tree/master/0489-kth-smallest-instructions) |
 | [0491-non-decreasing-subsequences](https://github.com/sam26092004/LEETCODE/tree/master/0491-non-decreasing-subsequences) |
 | [0518-coin-change-ii](https://github.com/sam26092004/LEETCODE/tree/master/0518-coin-change-ii) |
 | [0741-cherry-pickup](https://github.com/sam26092004/LEETCODE/tree/master/0741-cherry-pickup) |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0357-count-numbers-with-unique-digits](https://github.com/sam26092004/LEETCODE/tree/master/0357-count-numbers-with-unique-digits) |
 | [0368-largest-divisible-subset](https://github.com/sam26092004/LEETCODE/tree/master/0368-largest-divisible-subset) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/sam26092004/LEETCODE/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [0489-kth-smallest-instructions](https://github.com/sam26092004/LEETCODE/tree/master/0489-kth-smallest-instructions) |
 | [1057-numbers-with-repeated-digits](https://github.com/sam26092004/LEETCODE/tree/master/1057-numbers-with-repeated-digits) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/sam26092004/LEETCODE/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1787-sum-of-absolute-differences-in-a-sorted-array](https://github.com/sam26092004/LEETCODE/tree/master/1787-sum-of-absolute-differences-in-a-sorted-array) |
@@ -145,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0354-russian-doll-envelopes](https://github.com/sam26092004/LEETCODE/tree/master/0354-russian-doll-envelopes) |
 | [0357-count-numbers-with-unique-digits](https://github.com/sam26092004/LEETCODE/tree/master/0357-count-numbers-with-unique-digits) |
 | [0368-largest-divisible-subset](https://github.com/sam26092004/LEETCODE/tree/master/0368-largest-divisible-subset) |
+| [0489-kth-smallest-instructions](https://github.com/sam26092004/LEETCODE/tree/master/0489-kth-smallest-instructions) |
 | [0518-coin-change-ii](https://github.com/sam26092004/LEETCODE/tree/master/0518-coin-change-ii) |
 | [0741-cherry-pickup](https://github.com/sam26092004/LEETCODE/tree/master/0741-cherry-pickup) |
 | [0911-profitable-schemes](https://github.com/sam26092004/LEETCODE/tree/master/0911-profitable-schemes) |
@@ -441,6 +444,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Combinatorics
 |  |
 | ------- |
+| [0489-kth-smallest-instructions](https://github.com/sam26092004/LEETCODE/tree/master/0489-kth-smallest-instructions) |
 | [2187-vowels-of-all-substrings](https://github.com/sam26092004/LEETCODE/tree/master/2187-vowels-of-all-substrings) |
 | [3201-distribute-candies-among-children-ii](https://github.com/sam26092004/LEETCODE/tree/master/3201-distribute-candies-among-children-ii) |
 | [3535-find-the-count-of-monotonic-pairs-i](https://github.com/sam26092004/LEETCODE/tree/master/3535-find-the-count-of-monotonic-pairs-i) |
