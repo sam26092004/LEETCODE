@@ -134,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3017-number-of-beautiful-integers-in-the-range](https://github.com/sam26092004/LEETCODE/tree/master/3017-number-of-beautiful-integers-in-the-range) |
 | [3201-distribute-candies-among-children-ii](https://github.com/sam26092004/LEETCODE/tree/master/3201-distribute-candies-among-children-ii) |
 | [3535-find-the-count-of-monotonic-pairs-i](https://github.com/sam26092004/LEETCODE/tree/master/3535-find-the-count-of-monotonic-pairs-i) |
+| [3604-find-the-number-of-possible-ways-for-an-event](https://github.com/sam26092004/LEETCODE/tree/master/3604-find-the-number-of-possible-ways-for-an-event) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/sam26092004/LEETCODE/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/sam26092004/LEETCODE/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Dynamic Programming
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3017-number-of-beautiful-integers-in-the-range](https://github.com/sam26092004/LEETCODE/tree/master/3017-number-of-beautiful-integers-in-the-range) |
 | [3454-minimum-operations-to-make-array-equal-to-target](https://github.com/sam26092004/LEETCODE/tree/master/3454-minimum-operations-to-make-array-equal-to-target) |
 | [3535-find-the-count-of-monotonic-pairs-i](https://github.com/sam26092004/LEETCODE/tree/master/3535-find-the-count-of-monotonic-pairs-i) |
+| [3604-find-the-number-of-possible-ways-for-an-event](https://github.com/sam26092004/LEETCODE/tree/master/3604-find-the-number-of-possible-ways-for-an-event) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/sam26092004/LEETCODE/tree/master/3629-total-characters-in-string-after-transformations-i) |
 ## Prefix Sum
 |  |
@@ -442,6 +444,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2187-vowels-of-all-substrings](https://github.com/sam26092004/LEETCODE/tree/master/2187-vowels-of-all-substrings) |
 | [3201-distribute-candies-among-children-ii](https://github.com/sam26092004/LEETCODE/tree/master/3201-distribute-candies-among-children-ii) |
 | [3535-find-the-count-of-monotonic-pairs-i](https://github.com/sam26092004/LEETCODE/tree/master/3535-find-the-count-of-monotonic-pairs-i) |
+| [3604-find-the-number-of-possible-ways-for-an-event](https://github.com/sam26092004/LEETCODE/tree/master/3604-find-the-number-of-possible-ways-for-an-event) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/sam26092004/LEETCODE/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Number Theory
 |  |
