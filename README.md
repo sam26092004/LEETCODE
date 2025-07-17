@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/sam26092004/LEETCODE/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0223-rectangle-area](https://github.com/sam26092004/LEETCODE/tree/master/0223-rectangle-area) |
 | [0227-basic-calculator-ii](https://github.com/sam26092004/LEETCODE/tree/master/0227-basic-calculator-ii) |
 | [0231-power-of-two](https://github.com/sam26092004/LEETCODE/tree/master/0231-power-of-two) |
 | [0241-different-ways-to-add-parentheses](https://github.com/sam26092004/LEETCODE/tree/master/0241-different-ways-to-add-parentheses) |
@@ -314,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Geometry
 |  |
 | ------- |
+| [0223-rectangle-area](https://github.com/sam26092004/LEETCODE/tree/master/0223-rectangle-area) |
 | [2575-minimum-cuts-to-divide-a-circle](https://github.com/sam26092004/LEETCODE/tree/master/2575-minimum-cuts-to-divide-a-circle) |
 ## Recursion
 |  |
