@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0764-n-ary-tree-level-order-traversal](https://github.com/sam26092004/LEETCODE/tree/master/0764-n-ary-tree-level-order-traversal) |
 | [0863-sum-of-distances-in-tree](https://github.com/sam26092004/LEETCODE/tree/master/0863-sum-of-distances-in-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/sam26092004/LEETCODE/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1296-kth-ancestor-of-a-tree-node](https://github.com/sam26092004/LEETCODE/tree/master/1296-kth-ancestor-of-a-tree-node) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0449-serialize-and-deserialize-bst](https://github.com/sam26092004/LEETCODE/tree/master/0449-serialize-and-deserialize-bst) |
 | [0863-sum-of-distances-in-tree](https://github.com/sam26092004/LEETCODE/tree/master/0863-sum-of-distances-in-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/sam26092004/LEETCODE/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1296-kth-ancestor-of-a-tree-node](https://github.com/sam26092004/LEETCODE/tree/master/1296-kth-ancestor-of-a-tree-node) |
 | [2101-last-day-where-you-can-still-cross](https://github.com/sam26092004/LEETCODE/tree/master/2101-last-day-where-you-can-still-cross) |
 ## Breadth-First Search
 |  |
@@ -39,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0449-serialize-and-deserialize-bst](https://github.com/sam26092004/LEETCODE/tree/master/0449-serialize-and-deserialize-bst) |
 | [0764-n-ary-tree-level-order-traversal](https://github.com/sam26092004/LEETCODE/tree/master/0764-n-ary-tree-level-order-traversal) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/sam26092004/LEETCODE/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1296-kth-ancestor-of-a-tree-node](https://github.com/sam26092004/LEETCODE/tree/master/1296-kth-ancestor-of-a-tree-node) |
 | [2101-last-day-where-you-can-still-cross](https://github.com/sam26092004/LEETCODE/tree/master/2101-last-day-where-you-can-still-cross) |
 | [2151-the-time-when-the-network-becomes-idle](https://github.com/sam26092004/LEETCODE/tree/master/2151-the-time-when-the-network-becomes-idle) |
 ## Binary Tree
@@ -158,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1057-numbers-with-repeated-digits](https://github.com/sam26092004/LEETCODE/tree/master/1057-numbers-with-repeated-digits) |
 | [1170-shortest-common-supersequence](https://github.com/sam26092004/LEETCODE/tree/master/1170-shortest-common-supersequence) |
 | [1224-minimum-falling-path-sum-ii](https://github.com/sam26092004/LEETCODE/tree/master/1224-minimum-falling-path-sum-ii) |
+| [1296-kth-ancestor-of-a-tree-node](https://github.com/sam26092004/LEETCODE/tree/master/1296-kth-ancestor-of-a-tree-node) |
 | [1332-count-vowels-permutation](https://github.com/sam26092004/LEETCODE/tree/master/1332-count-vowels-permutation) |
 | [1393-maximum-value-of-k-coins-from-piles](https://github.com/sam26092004/LEETCODE/tree/master/1393-maximum-value-of-k-coins-from-piles) |
 | [1511-count-number-of-teams](https://github.com/sam26092004/LEETCODE/tree/master/1511-count-number-of-teams) |
@@ -283,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0315-count-of-smaller-numbers-after-self](https://github.com/sam26092004/LEETCODE/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0354-russian-doll-envelopes](https://github.com/sam26092004/LEETCODE/tree/master/0354-russian-doll-envelopes) |
 | [0792-binary-search](https://github.com/sam26092004/LEETCODE/tree/master/0792-binary-search) |
+| [1296-kth-ancestor-of-a-tree-node](https://github.com/sam26092004/LEETCODE/tree/master/1296-kth-ancestor-of-a-tree-node) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/sam26092004/LEETCODE/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [2101-last-day-where-you-can-still-cross](https://github.com/sam26092004/LEETCODE/tree/master/2101-last-day-where-you-can-still-cross) |
 | [2657-minimum-time-to-complete-all-tasks](https://github.com/sam26092004/LEETCODE/tree/master/2657-minimum-time-to-complete-all-tasks) |
@@ -366,6 +371,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/sam26092004/LEETCODE/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0449-serialize-and-deserialize-bst](https://github.com/sam26092004/LEETCODE/tree/master/0449-serialize-and-deserialize-bst) |
 | [0860-design-circular-queue](https://github.com/sam26092004/LEETCODE/tree/master/0860-design-circular-queue) |
+| [1296-kth-ancestor-of-a-tree-node](https://github.com/sam26092004/LEETCODE/tree/master/1296-kth-ancestor-of-a-tree-node) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
