@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3639-zero-array-transformation-i](https://github.com/sam26092004/LEETCODE/tree/master/3639-zero-array-transformation-i) |
 | [3643-zero-array-transformation-ii](https://github.com/sam26092004/LEETCODE/tree/master/3643-zero-array-transformation-ii) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/sam26092004/LEETCODE/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
+| [3838-path-existence-queries-in-a-graph-i](https://github.com/sam26092004/LEETCODE/tree/master/3838-path-existence-queries-in-a-graph-i) |
 ## Math
 |  |
 | ------- |
@@ -242,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2856-count-complete-subarrays-in-an-array](https://github.com/sam26092004/LEETCODE/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [3418-count-pairs-that-form-a-complete-day-ii](https://github.com/sam26092004/LEETCODE/tree/master/3418-count-pairs-that-form-a-complete-day-ii) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/sam26092004/LEETCODE/tree/master/3629-total-characters-in-string-after-transformations-i) |
+| [3838-path-existence-queries-in-a-graph-i](https://github.com/sam26092004/LEETCODE/tree/master/3838-path-existence-queries-in-a-graph-i) |
 ## Sliding Window
 |  |
 | ------- |
@@ -293,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2657-minimum-time-to-complete-all-tasks](https://github.com/sam26092004/LEETCODE/tree/master/2657-minimum-time-to-complete-all-tasks) |
 | [2665-minimum-time-to-repair-cars](https://github.com/sam26092004/LEETCODE/tree/master/2665-minimum-time-to-repair-cars) |
 | [3643-zero-array-transformation-ii](https://github.com/sam26092004/LEETCODE/tree/master/3643-zero-array-transformation-ii) |
+| [3838-path-existence-queries-in-a-graph-i](https://github.com/sam26092004/LEETCODE/tree/master/3838-path-existence-queries-in-a-graph-i) |
 ## Graph
 |  |
 | ------- |
@@ -306,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3235-minimum-cost-to-convert-string-i](https://github.com/sam26092004/LEETCODE/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/sam26092004/LEETCODE/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/sam26092004/LEETCODE/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
+| [3838-path-existence-queries-in-a-graph-i](https://github.com/sam26092004/LEETCODE/tree/master/3838-path-existence-queries-in-a-graph-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -415,6 +419,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1701-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/sam26092004/LEETCODE/tree/master/1701-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
 | [2101-last-day-where-you-can-still-cross](https://github.com/sam26092004/LEETCODE/tree/master/2101-last-day-where-you-can-still-cross) |
 | [2466-maximum-segment-sum-after-removals](https://github.com/sam26092004/LEETCODE/tree/master/2466-maximum-segment-sum-after-removals) |
+| [3838-path-existence-queries-in-a-graph-i](https://github.com/sam26092004/LEETCODE/tree/master/3838-path-existence-queries-in-a-graph-i) |
 ## Matrix
 |  |
 | ------- |
