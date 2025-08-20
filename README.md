@@ -487,4 +487,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0386-lexicographical-numbers](https://github.com/sam26092004/LEETCODE/tree/master/0386-lexicographical-numbers) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/sam26092004/LEETCODE/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+## Database
+|  |
+| ------- |
+| [0177-nth-highest-salary](https://github.com/sam26092004/LEETCODE/tree/master/0177-nth-highest-salary) |
 <!---LeetCode Topics End-->
